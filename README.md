@@ -18,12 +18,17 @@ Antes de mergulhar nas consultas SQL, é crucial entender a estrutura de um banc
 * INSERT: Para adicionar novos dados à tabela, utilizamos o comando INSERT. INSERT INTO produtos (nome, preço) VALUES ('Notebook', 1200); adiciona um novo produto à tabela.
 * UPDATE: Permite a modificação de dados existentes. UPDATE funcionarios SET salario = 50000 WHERE cargo = 'Gerente'; aumenta o salário dos gerentes.
 * DELETE: Remove registros de uma tabela. DELETE FROM alunos WHERE nota < 5; exclui alunos com notas abaixo de 5.
+  
 **4. Condições e Filtragem:**
 * A capacidade de filtrar dados é crucial. Usamos a cláusula WHERE para especificar condições em uma consulta. Por exemplo, SELECT * FROM pedidos WHERE valor_total > 1000; retorna todos os pedidos com valor total superior a 1000.
+  
 **5. Ordenação e Agrupamento:**
 * Para tornar os resultados mais compreensíveis, usamos ORDER BY para classificar os dados e GROUP BY para agrupá-los com base em determinados critérios.
+  
 **6. Junção de Tabelas:**
 * Em bancos de dados complexos, muitas vezes precisamos combinar dados de diferentes tabelas. As cláusulas JOIN são essenciais para realizar essa tarefa.
+
+  
 **7. Prática faz a Perfeição:**
 * A melhor maneira de aprender SQL é praticar. Utilize bancos de dados de exemplo e desafios online para aprimorar suas habilidades. Experimente criar suas próprias consultas e explore os diferentes aspectos do SQL. <br>
 
