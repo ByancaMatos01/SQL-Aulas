@@ -36,6 +36,6 @@ Antes de mergulhar nas consultas SQL, é crucial entender a estrutura de um banc
 - [@Byanca da Silva Monteiro de Matos](https://www.github.com/ByancaMatos01)
 - [@Felype Dantas](https://github.com/FelypeDantas)
 
-# Aula 1 Aprendendo sobre Selects 12/01/2023
+# Aula 1 Aprendendo sobre Selects 
 * Vamos desevendar a mágia dos selects
   
